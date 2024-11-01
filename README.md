@@ -1,6 +1,9 @@
 # Team Solace | Game Off 2024
 
-<img src="Images/GameOff2024_Image.png" alt="Game Off 2024" width="20%">
+<a href="https://itch.io/jam/game-off-2024" target="_blank">
+    <img src="Images/GameOff2024_Image.png" alt="Game Off 2024" width="20%">
+</a>
+
 
 ## Team Members
 - KiilzD (Devin)
